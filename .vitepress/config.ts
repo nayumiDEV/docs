@@ -23,7 +23,7 @@ export default defineConfig({
         },
         nav: [
           { text: "首页", link: "/" },
-          { text: "Discord", link: "https://discord.gg/mvjP2U3cY2" },
+          { text: "Discord", link: "https://discord.gg/V6kaP6Rg44" },
           {
             text: "注册 AgentRouter",
             link: "https://agentrouter.org/register?aff=IPN5",
@@ -86,7 +86,7 @@ export default defineConfig({
             text: "Register AgentRouter",
             link: "https://agentrouter.org/register?aff=IPN5",
           },
-          { text: "Discord", link: "https://discord.gg/mvjP2U3cY2" },
+          { text: "Discord", link: "https://discord.gg/V6kaP6Rg44" },
           {
             text: "Follow on X",
             link: "https://x.com/agentrouter",
@@ -139,7 +139,7 @@ export default defineConfig({
         },
         nav: [
           { text: "Accueil", link: "/fr/" },
-          { text: "Discord", link: "https://discord.gg/mvjP2U3cY2" },
+          { text: "Discord", link: "https://discord.gg/V6kaP6Rg44" },
           {
             text: "S'inscrire à AgentRouter",
             link: "https://agentrouter.org/register?aff=IPN5",
@@ -196,7 +196,7 @@ export default defineConfig({
         },
         nav: [
           { text: "Beranda", link: "/id/" },
-          { text: "Discord", link: "https://discord.gg/mvjP2U3cY2" },
+          { text: "Discord", link: "https://discord.gg/V6kaP6Rg44" },
           {
             text: "Daftar ke AgentRouter",
             link: "https://agentrouter.org/register?aff=IPN5",
@@ -253,7 +253,7 @@ export default defineConfig({
         },
         nav: [
           { text: "Laman Utama", link: "/ms/" },
-          { text: "Discord", link: "https://discord.gg/mvjP2U3cY2" },
+          { text: "Discord", link: "https://discord.gg/V6kaP6Rg44" },
           {
             text: "Daftar ke AgentRouter",
             link: "https://agentrouter.org/register?aff=IPN5",
@@ -314,7 +314,7 @@ export default defineConfig({
         },
         nav: [
           { text: "Inicio", link: "/es/" },
-          { text: "Discord", link: "https://discord.gg/mvjP2U3cY2" },
+          { text: "Discord", link: "https://discord.gg/V6kaP6Rg44" },
           {
             text: "Registrarse en AgentRouter",
             link: "https://agentrouter.org/register?aff=IPN5",
@@ -379,7 +379,7 @@ export default defineConfig({
         },
         nav: [
           { text: "Trang chủ", link: "/vi/" },
-          { text: "Discord", link: "https://discord.gg/mvjP2U3cY2" },
+          { text: "Discord", link: "https://discord.gg/V6kaP6Rg44" },
           {
             text: "Đăng ký AgentRouter",
             link: "https://agentrouter.org/register?aff=IPN5",
