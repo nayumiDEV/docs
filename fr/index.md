@@ -5,6 +5,9 @@ layout: home
 hero:
   name: "AgentRouter"
   tagline: Plateforme gratuite pour l'IA Coding
+  image:
+    src: /img/agent-logo.png
+    alt: "AgentRouter Logo"
   actions:
     - theme: brand
       text: Commencer
