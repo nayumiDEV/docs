@@ -136,7 +136,7 @@ export default defineConfig({
         ],
         footer: {
           message: "<span class='footer-left'>agentrouter.org</span>",
-          copyright: "<div class='footer-right'><div class='follow-label'>Follow in:</div><div class='footer-social'><a href='https://x.com/agentrouter' target='_blank' rel='noopener' aria-label='X/Twitter'><svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 50 50' fill='currentColor' aria-hidden='true'><path d='M 6.9199219 6 L 21.136719 26.726562 L 6.2285156 44 L 9.40625 44 L 22.544922 28.777344 L 32.986328 44 L 43 44 L 28.123047 22.3125 L 42.203125 6 L 39.027344 6 L 26.716797 20.261719 L 16.933594 6 L 6.9199219 6 z'></path></svg></a> <a href='https://discord.gg/mvjP2U3cY2' target='_blank' rel='noopener' aria-label='Discord'><svg viewBox='0 0 24 24' fill='currentColor' aria-hidden='true'><path d='M20.317 4.369A19.791 19.791 0 0016.558 3c-.2.36-.43.85-.59 1.23a17.167 17.167 0 00-7.936 0 7.236 7.236 0 00-.59-1.23 19.736 19.736 0 00-3.76 1.37C.533 9.012-.32 13.525.099 18.003a19.9 19.9 0 006.044 3.03c.487-.67.92-1.377 1.29-2.117a12.86 12.86 0 01-2.03-.987c.17-.127.337-.258.498-.392 3.92 1.826 8.17 1.826 12.06 0 .162.134.329.265.498.392-.65.389-1.33.723-2.03.987.37 .74 .803 1.447 1.29 2.117a19.9 19.9 0 006.044-3.03c.5-5.3-.86-9.78-3.446-13.634zM8.02 15.331c-1.183 0-2.146-1.087-2.146-2.427 0-1.34.946-2.427 2.146-2.427 1.209 0 2.163 1.098 2.146 2.427 0 1.34-.946 2.427-2.146 2.427zm7.96 0c-1.183 0-2.146-1.087-2.146-2.427 0-1.34.946-2.427 2.146-2.427 1.209 0 2.163 1.098 2.146 2.427 0 1.34-.946 2.427-2.146 2.427z'/></svg></a></div></div>",
+          copyright: "<div class='footer-right'><div class='follow-label'>Follow in:</div><div class='footer-social'><a href='https://x.com/agentrouter' target='_blank' rel='noopener' aria-label='X/Twitter'><svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 50 50' fill='currentColor' aria-hidden='true'><path d='M 6.9199219 6 L 21.136719 26.726562 L 6.2285156 44 L 9.40625 44 L 22.544922 28.777344 L 32.986328 44 L 43 44 L 28.123047 22.3125 L 42.203125 6 L 39.027344 6 L 26.716797 20.261719 L 16.933594 6 L 6.9199219 6 z'></path></svg></a> <a href='https://discord.gg/mvjP2U3cY2' target='_blank' rel='noopener' aria-label='Discord'><svg viewBox='0 0 24 24' fill='currentColor' aria-hidden='true'><path d='M20.317 4.369A19.791 19.791 0 0016.558 3c-.2.36-.43.85-.59 1.23a17.167 17.167 0 00-7.936 0 7.236 7.236 0 00-.59-1.23 19.736 19.736 0 00-3.76 1.37C.533 9.012-.32 13.525.099 18.003a19.9 19.9 0 006.044 3.03c.487-.67.92-1.377 1.29-2.117a12.86 12.86 0 01-2.03-.987c.17-.127.337-.258.498-.392 3.92 1.826 8.17 1.826 12.06 0 .162.134.329.265.498.392-.65.389-1.33.723-2.03.987.37.74.803 1.447 1.29 2.117a19.9 19.9 0 006.044-3.03c.5-5.3-.86-9.78-3.446-13.634zM8.02 15.331c-1.183 0-2.146-1.087-2.146-2.427 0-1.34.946-2.427 2.146-2.427 1.209 0 2.163 1.098 2.146 2.427 0 1.34-.946 2.427-2.146 2.427zm7.96 0c-1.183 0-2.146-1.087-2.146-2.427 0-1.34.946-2.427 2.146-2.427 1.209 0 2.163 1.098 2.146 2.427 0 1.34-.946 2.427-2.146 2.427z'/></svg></a></div></div>",
         },
       },
     },
@@ -246,6 +246,61 @@ export default defineConfig({
         footer: {
           message: "<span class='footer-left'>agentrouter.org</span>",
           copyright: "<div class='footer-right'><div class='follow-label'>Síguenos en:</div><div class='footer-social'><a href='https://x.com/agentrouter' target='_blank' rel='noopener' aria-label='X/Twitter'><svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 50 50' fill='currentColor' aria-hidden='true'><path d='M 6.9199219 6 L 21.136719 26.726562 L 6.2285156 44 L 9.40625 44 L 22.544922 28.777344 L 32.986328 44 L 43 44 L 28.123047 22.3125 L 42.203125 6 L 39.027344 6 L 26.716797 20.261719 L 16.933594 6 L 6.9199219 6 z'></path></svg></a> <a href='https://discord.gg/mvjP2U3cY2' target='_blank' rel='noopener' aria-label='Discord'><svg viewBox='0 0 24 24' fill='currentColor' aria-hidden='true'><path d='M20.317 4.369A19.791 19.791 0 0016.558 3c-.2.36-.43.85-.59 1.23a17.167 17.167 0 00-7.936 0 7.236 7.236 0 00-.59-1.23 19.736 19.736 0 00-3.76 1.37C.533 9.012-.32 13.525.099 18.003a19.9 19.9 0 006.044 3.03c.487-.67.92-1.377 1.29-2.117a12.86 12.86 0 01-2.03-.987c.17-.127.337-.258.498-.392 3.92 1.826 8.17 1.826 12.06 0 .162.134.329.265.498.392-.65.389-1.33.723-2.03.987.37.74.803 1.447 1.29 2.117a19.9 19.9 0 006.044-3.03c.5-5.3-.86-9.78-3.446-13.634zM8.02 15.331c-1.183 0-2.146-1.087-2.146-2.427 0-1.34.946-2.427 2.146-2.427 1.209 0 2.163 1.098 2.146 2.427 0 1.34-.946 2.427-2.146 2.427zm7.96 0c-1.183 0-2.146-1.087-2.146-2.427 0-1.34.946-2.427 2.146-2.427 1.209 0 2.163 1.098 2.146 2.427 0 1.34-.946 2.427-2.146 2.427z'/></svg></a></div></div>",
+        },
+      },
+    },
+
+    pt: {
+      label: "Português",
+      lang: "pt-BR",
+      link: "/pt/",
+      title: "AgentRouter | Developers",
+      description: "Guia de integração do AgentRouter",
+      themeConfig: {
+        lastUpdated: {
+          text: "Última atualização",
+        },
+        search: {
+          provider: "local",
+        },
+        nav: [
+          { text: "Início", link: "/pt/" },
+          { text: "Começar", link: "/pt/start" },
+          {
+            text: "Guias de ferramentas",
+            items: [
+              { text: "Claude Code", link: "/pt/start" },
+              { text: "OpenAI Codex", link: "/pt/codex" },
+              { text: "Gemini Cli", link: "/pt/gemini" },
+              { text: "RooCode", link: "/pt/roocode" },
+              { text: "Qwen Code", link: "/pt/qwencode" },
+            ],
+          },
+          {
+            text: "Registre-se agora",
+            link: "https://agentrouter.org/register?aff=IPN5",
+          },
+        ],
+        sidebar: [
+          {
+            text: "Começar",
+            items: [
+              { text: "Usar com Claude Code", link: "/pt/start" },
+              { text: "Usar com Codex", link: "/pt/codex" },
+              { text: "Usar com Gemini Cli", link: "/pt/gemini" },
+              { text: "Usar com RooCode", link: "/pt/roocode" },
+              { text: "Usar com Kilocode", link: "/pt/kilocode" },
+              { text: "Usar com Qwen Code", link: "/pt/qwencode" },
+            ],
+          },
+          {
+            text: "Contato",
+            items: [{ text: "Entre em Contato", link: "/pt/contact" }],
+          },
+        ],
+        footer: {
+          message: "<span class='footer-left'>agentrouter.org</span>",
+          copyright: "<div class='footer-right'><div class='follow-label'>Siga-nos em:</div><div class='footer-social'><a href='https://x.com/agentrouter' target='_blank' rel='noopener' aria-label='X/Twitter'><svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 50 50' fill='currentColor' aria-hidden='true'><path d='M 6.9199219 6 L 21.136719 26.726562 L 6.2285156 44 L 9.40625 44 L 22.544922 28.777344 L 32.986328 44 L 43 44 L 28.123047 22.3125 L 42.203125 6 L 39.027344 6 L 26.716797 20.261719 L 16.933594 6 L 6.9199219 6 z'></path></svg></a> <a href='https://discord.gg/mvjP2U3cY2' target='_blank' rel='noopener' aria-label='Discord'><svg viewBox='0 0 24 24' fill='currentColor' aria-hidden='true'><path d='M20.317 4.369A19.791 19.791 0 0016.558 3c-.2.36-.43.85-.59 1.23a17.167 17.167 0 00-7.936 0 7.236 7.236 0 00-.59-1.23 19.736 19.736 0 00-3.76 1.37C.533 9.012-.32 13.525.099 18.003a19.9 19.9 0 006.044 3.03c.487-.67.92-1.377 1.29-2.117a12.86 12.86 0 01-2.03-.987c.17-.127.337-.258.498-.392 3.92 1.826 8.17 1.826 12.06 0 .162.134.329.265.498.392-.65.389-1.33.723-2.03.987.37.74.803 1.447 1.29 2.117a19.9 19.9 0 006.044-3.03c.5-5.3-.86-9.78-3.446-13.634zM8.02 15.331c-1.183 0-2.146-1.087-2.146-2.427 0-1.34.946-2.427 2.146-2.427 1.209 0 2.163 1.098 2.146 2.427 0 1.34-.946 2.427-2.146 2.427zm7.96 0c-1.183 0-2.146-1.087-2.146-2.427 0-1.34.946-2.427 2.146-2.427 1.209 0 2.163 1.098 2.146 2.427 0 1.34-.946 2.427-2.146 2.427z'/></svg></a></div></div>",
         },
       },
     },
