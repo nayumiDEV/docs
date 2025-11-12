@@ -20,4 +20,4 @@ Après avoir installé Kilo Code, vous pouvez ouvrir Kilo Code, sélectionner la
 Une fois la configuration terminée, enregistrez et commencez à utiliser.
 
 
-![](../img/kilocode.png)
+![](/img/kilocode.png)

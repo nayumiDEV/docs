@@ -13,4 +13,4 @@ Parce que WeChat a été bloqué plusieurs fois et cette fois jusqu'à mi-octobr
 
 Cliquez sur le lien pour rejoindre le groupe de discussion【AgentRouter】: https://qm.qq.com/q/cwq1fJh1Li
 
-![](../img/qqgroup.jpg)
+![](/img/qqgroup.jpg)

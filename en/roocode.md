@@ -20,5 +20,5 @@ After completing the Roo Code installation, you can open Roo Code, select config
 After completing the configuration, save and you can start using it.
 
 
-![](../img/roo-code.png)
+![](/img/roo-code.png)
 

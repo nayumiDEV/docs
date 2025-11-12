@@ -20,6 +20,6 @@ Sau khi hoàn tất cài đặt Roo Code, bạn có thể mở Roo Code, chọn 
 Sau khi hoàn tất cấu hình, lưu lại và bạn có thể bắt đầu sử dụng.
 
 
-![](../img/roo-code.png)
+![](/img/roo-code.png)
 
 

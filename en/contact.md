@@ -13,5 +13,5 @@ Since WeChat has been blocked several times, and this time it's blocked until mi
 
 Click the link to join the group chat [AgentRouter]: https://qm.qq.com/q/cwq1fJh1Li
 
-![](../img/qqgroup.jpg)
+![](/img/qqgroup.jpg)
 

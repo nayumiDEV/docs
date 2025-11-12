@@ -69,7 +69,7 @@ codex
 
 3. 进入设置,并点击右上角,切换为 JSON 配置模式
 
-![](./img/codex-config.png)
+![](/img/codex-config.png)
 
 4. 添加如下配置项目
 
@@ -82,7 +82,7 @@ codex
 }
 ```
 
-![](./img/codex-config2.png)
+![](/img/codex-config2.png)
 
 
 5. 点击 Codex 图标，开始使用

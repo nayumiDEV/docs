@@ -20,4 +20,4 @@ Después de completar la instalación de Roo Code, puedes abrir Roo Code, selecc
 Después de completar la configuración, guarda y puedes comenzar a usarlo.
 
 
-![](../img/roo-code.png)
+![](/img/roo-code.png)

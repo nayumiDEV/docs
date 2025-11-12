@@ -20,6 +20,6 @@ Sau khi hoàn tất cài đặt Kilo Code, bạn có thể mở Kilo Code, chọ
 Sau khi hoàn tất cấu hình, lưu lại và bạn có thể bắt đầu sử dụng.
 
 
-![](../img/kilocode.png)
+![](/img/kilocode.png)
 
 

@@ -20,4 +20,4 @@ Após concluir a instalação do Kilo Code, você pode abrir o Kilo Code, seleci
 Após concluir a configuração, salve e você pode começar a usar.
 
 
-![](../img/kilocode.png)
+![](/img/kilocode.png)

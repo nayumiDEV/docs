@@ -20,4 +20,4 @@
 配置完成后，保存即可使用。
 
 
-![](./img/kilocode.png)
+![](/img/kilocode.png)

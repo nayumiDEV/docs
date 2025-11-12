@@ -70,7 +70,7 @@ codex
 
 3. Go to settings and click the icon in the upper right corner to switch to JSON configuration mode
 
-![](../img/codex-config.png)
+![](/img/codex-config.png)
 
 4. Add the following configuration items:
 
@@ -83,7 +83,7 @@ codex
 }
 ```
 
-![](../img/codex-config2.png)
+![](/img/codex-config2.png)
 
 
 5. Click the Codex icon to start using...

@@ -13,6 +13,6 @@ Do WeChat đã bị chặn nhiều lần, và lần này bị chặn đến gi�
 
 Nhấp vào liên kết để tham gia nhóm chat [AgentRouter]: https://qm.qq.com/q/cwq1fJh1Li
 
-![](../img/qqgroup.jpg)
+![](/img/qqgroup.jpg)
 
 

@@ -70,7 +70,7 @@ codex
 
 3. Vào settings và nhấp vào biểu tượng ở góc trên bên phải để chuyển sang chế độ cấu hình JSON
 
-![](../img/codex-config.png)
+![](/img/codex-config.png)
 
 4. Thêm các mục cấu hình sau:
 
@@ -83,7 +83,7 @@ codex
 }
 ```
 
-![](../img/codex-config2.png)
+![](/img/codex-config2.png)
 
 
 5. Nhấp vào biểu tượng Codex để bắt đầu sử dụng...

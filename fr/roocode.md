@@ -20,4 +20,4 @@ Après avoir installé Roo Code, vous pouvez ouvrir Roo Code, sélectionner la c
 Une fois la configuration terminée, enregistrez et commencez à utiliser.
 
 
-![](../img/roo-code.png)
+![](/img/roo-code.png)

@@ -13,4 +13,4 @@
 
 点击链接加入群聊【AgentRouter】：https://qm.qq.com/q/cwq1fJh1Li
 
-![](./img/qqgroup.jpg)
+![](/img/qqgroup.jpg)

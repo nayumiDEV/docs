@@ -13,4 +13,4 @@ Como o WeChat foi bloqueado várias vezes, e desta vez está bloqueado até mead
 
 Clique no link para entrar no grupo [AgentRouter]: https://qm.qq.com/q/cwq1fJh1Li
 
-![](../img/qqgroup.jpg)
+![](/img/qqgroup.jpg)

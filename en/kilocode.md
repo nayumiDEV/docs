@@ -20,5 +20,5 @@ After completing the Kilo Code installation, you can open Kilo Code, select conf
 After completing the configuration, save and you can start using it.
 
 
-![](../img/kilocode.png)
+![](/img/kilocode.png)
 
