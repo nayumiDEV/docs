@@ -41,6 +41,7 @@ export default defineConfig({
               { text: "Gemini Cli", link: "/gemini" },
               { text: "RooCode", link: "/roocode" },
               { text: "Qwen Code", link: "/qwencode" },
+              { text: "Droid CLI", link: "/droid" },
             ],
           },
         ],
@@ -54,6 +55,7 @@ export default defineConfig({
               { text: "在 RooCode 中使用", link: "/roocode" },
               { text: "在 Kilocode 中使用", link: "/kilocode" },
               { text: "在 Qwen Code 中使用", link: "/qwencode" },
+              { text: "在 Droid CLI 中使用", link: "/droid" },
             ],
           },
           {
