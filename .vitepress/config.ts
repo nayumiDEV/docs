@@ -7,19 +7,20 @@ export default defineConfig({
     hostname: "https://docs.agentrouter.org",
   },
   head: [
+    ["link", { rel: "icon", href: "/img/agent-logo.png" }],
     [
       "style",
       {},
       `
       .VPFooter .container { display: flex; justify-content: space-between; align-items: center; }
-      .VPFooter .message { font-weight: 700; font-size: 1.2rem; text-align: left; display: flex; align-items: center; }
-      .VPFooter .copyright { text-align: right; }
-      .footer-right { display: flex; align-items: baseline; gap: 8px; }
-      .follow-label { margin-right: 6px; }
-      /* Ícones uniformes, escuros com hover branco */
-      .footer-social a svg { width: 20px; height: 20px; vertical-align: middle; color: #8a8a8a; transition: color .2s ease; position: relative; top: 5px; }
+      .VPFooter .message { font-weight: 700; font-size: 1.2rem; text-align: left; }
+      .VPFooter .copyright { text-align: right; display: flex; align-items: center; justify-content: flex-end; }
+      .footer-right { display: flex; align-items: center; gap: 8px; }
+      .follow-label { font-size: 0.9rem; }
+      .footer-social { display: flex; align-items: center; gap: 12px; }
+      .footer-social a svg { width: 20px; height: 20px; color: #8a8a8a; transition: color .2s ease; }
       .footer-social a:hover svg { color: #FFFFFF; }
-      .footer-social a { display: inline-flex; align-items: center; gap: 8px; }
+      .footer-social a { display: inline-flex; align-items: center; }
       /* Logo menor e deslocada mais para a direita */
       .VPHomeHero .image { max-width: 300px !important; margin-left: 120px; margin-top: 28px; }
       @media (min-width: 1024px) {
@@ -55,6 +56,7 @@ export default defineConfig({
               { text: "Gemini Cli", link: "/gemini" },
               { text: "RooCode", link: "/roocode" },
               { text: "Qwen Code", link: "/qwencode" },
+              { text: "Droid CLI", link: "/droid" },
             ],
           },
           {
@@ -72,6 +74,7 @@ export default defineConfig({
               { text: "在 RooCode 中使用", link: "/roocode" },
               { text: "在 Kilocode 中使用", link: "/kilocode" },
               { text: "在 Qwen Code 中使用", link: "/qwencode" },
+              { text: "在 Droid CLI 中使用", link: "/droid" },
             ],
           },
           {
@@ -110,6 +113,7 @@ export default defineConfig({
               { text: "Gemini Cli", link: "/en/gemini" },
               { text: "RooCode", link: "/en/roocode" },
               { text: "Qwen Code", link: "/en/qwencode" },
+              { text: "Droid CLI", link: "/en/droid" },
             ],
           },
           {
@@ -127,6 +131,7 @@ export default defineConfig({
               { text: "Use with RooCode", link: "/en/roocode" },
               { text: "Use with Kilocode", link: "/en/kilocode" },
               { text: "Use with Qwen Code", link: "/en/qwencode" },
+              { text: "Use with Droid CLI", link: "/en/droid" },
             ],
           },
           {
@@ -163,6 +168,7 @@ export default defineConfig({
               { text: "Gemini Cli", link: "/fr/gemini" },
               { text: "RooCode", link: "/fr/roocode" },
               { text: "Qwen Code", link: "/fr/qwencode" },
+              { text: "Droid CLI", link: "/fr/droid" },
             ],
           },
           {
@@ -180,6 +186,7 @@ export default defineConfig({
               { text: "Utiliser avec RooCode", link: "/fr/roocode" },
               { text: "Utiliser avec Kilocode", link: "/fr/kilocode" },
               { text: "Utiliser avec Qwen Code", link: "/fr/qwencode" },
+              { text: "Utiliser avec Droid CLI", link: "/fr/droid" },
             ],
           },
           {
@@ -219,6 +226,7 @@ export default defineConfig({
               { text: "Gemini Cli", link: "/es/gemini" },
               { text: "RooCode", link: "/es/roocode" },
               { text: "Qwen Code", link: "/es/qwencode" },
+              { text: "Droid CLI", link: "/es/droid" },
             ],
           },
           {
@@ -236,6 +244,7 @@ export default defineConfig({
               { text: "Usar con RooCode", link: "/es/roocode" },
               { text: "Usar con Kilocode", link: "/es/kilocode" },
               { text: "Usar con Qwen Code", link: "/es/qwencode" },
+              { text: "Usar con Droid CLI", link: "/es/droid" },
             ],
           },
           {
@@ -274,6 +283,7 @@ export default defineConfig({
               { text: "Gemini Cli", link: "/pt/gemini" },
               { text: "RooCode", link: "/pt/roocode" },
               { text: "Qwen Code", link: "/pt/qwencode" },
+              { text: "Droid CLI", link: "/pt/droid" },
             ],
           },
           {
@@ -291,6 +301,7 @@ export default defineConfig({
               { text: "Usar com RooCode", link: "/pt/roocode" },
               { text: "Usar com Kilocode", link: "/pt/kilocode" },
               { text: "Usar com Qwen Code", link: "/pt/qwencode" },
+              { text: "Usar com Droid CLI", link: "/pt/droid" },
             ],
           },
           {

@@ -5,6 +5,9 @@ layout: home
 hero:
   name: "AgentRouter"
   tagline: AI Coding 公益站
+  image:
+    src: /img/agent-logo.png
+    alt: "AgentRouter Logo"
   actions:
     - theme: brand
       text: 开始使用
